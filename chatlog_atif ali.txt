@@ -1,0 +1,12 @@
+[20:17:21] Connected to server.
+[20:18:23] *** ihsan ali joined the chat ***
+[20:18:33] ihsan ali: hi
+[20:18:46] ihsan ali: how are you
+[20:19:00] atif ali: hello
+[20:19:11] atif ali: i am fine how are you
+[20:19:41] asif ali: hello ever one how are you
+Connected users:
+ - asif ali
+ - atif ali
+ - ihsan ali
+[20:21:51] User asif not found.

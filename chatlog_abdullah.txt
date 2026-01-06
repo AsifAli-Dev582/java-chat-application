@@ -1,0 +1,7 @@
+[11:57:06] Connected to server.
+[11:57:12] abdullah: hi
+[11:57:23] asif: hello
+[11:57:35] asif: hello every one
+[11:58:58] Received file: football.mp4
+[11:58:58] asif sent file: football.mp4
+Connection closed.

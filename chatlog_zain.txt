@@ -1,0 +1,27 @@
+[01:18:31] Connected to server.
+[01:18:41] zain: hi
+[01:19:03] asif: hello every one
+[01:19:18] atif: how are you all
+[01:19:59] atif: sab tek ho
+Connected users:
+ - asif
+ - atif
+ - zain
+Logged out.
+Connection closed.
+[20:25:14] Connected to server.
+[20:26:02] *** ali joined the chat ***
+[20:26:54] *** ihsan joined the chat ***
+[20:27:02] ihsan: hello
+[20:27:08] ihsan: how are you
+[20:27:29] zain: i am fine how are you
+Connected users:
+ - zain
+ - ali
+ - ihsan
+[20:28:47] File sent: football.mp4
+[20:28:47] zain sent file: football.mp4
+[20:30:18] File sent: 2024-12-24 (1).png
+[20:30:18] zain sent file: 2024-12-24 (1).png
+[20:31:35] File sent: soports pic.jpg
+[20:31:35] zain sent file: soports pic.jpg
