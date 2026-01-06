@@ -1,0 +1,24 @@
+[00:34:35] Connected to server.
+[00:34:46] atif: hi
+[00:34:51] atif: hallo
+Connected users:
+ - asif
+ - atif
+[00:56:43] File sent: asif fc.png
+[00:56:43] atif sent file: asif fc.png
+[01:01:50] Received file: imran.mp4
+[01:01:50] asif sent file: imran.mp4
+[01:17:10] Connected to server.
+[01:17:17] atif: hi
+[01:17:26] asif: hello
+[01:18:31] *** zain joined the chat ***
+[01:18:41] zain: hi
+[01:19:03] asif: hello every one
+[01:19:18] atif: how are you all
+[01:19:59] atif: sab tek ho
+Connected users:
+ - asif
+ - atif
+ - zain
+[01:20:19] *** zain has left ***
+Connection closed.

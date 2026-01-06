@@ -1,0 +1,11 @@
+[20:26:02] Connected to server.
+[20:26:54] *** ihsan joined the chat ***
+[20:27:02] ihsan: hello
+[20:27:08] ihsan: how are you
+[20:27:29] zain: i am fine how are you
+[20:28:48] Received file: football.mp4
+[20:28:47] zain sent file: football.mp4
+[20:30:18] Received file: 2024-12-24 (1).png
+[20:30:18] zain sent file: 2024-12-24 (1).png
+[20:31:35] Received file: soports pic.jpg
+[20:31:35] zain sent file: soports pic.jpg
